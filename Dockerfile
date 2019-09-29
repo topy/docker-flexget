@@ -78,6 +78,7 @@ RUN \
     requests \
     setuptools \
     urllib3 \
+    beautifulsoup4 \
     virtualenv && \
  echo "**** clean up ****" && \
  rm -rf \
