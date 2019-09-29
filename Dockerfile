@@ -79,6 +79,7 @@ RUN \
     setuptools \
     urllib3 \
     beautifulsoup4 \
+    flexget \
     virtualenv && \
  echo "**** clean up ****" && \
  rm -rf \
